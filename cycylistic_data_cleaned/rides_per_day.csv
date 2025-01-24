@@ -1,0 +1,15 @@
+member_casual,day_of_week_num,day_of_week_name,total_rides
+member,1,Sunday,435626
+casual,1,Sunday,377421
+casual,2,Monday,258642
+member,2,Monday,556188
+member,3,Tuesday,594152
+casual,3,Tuesday,237711
+member,4,Wednesday,638052
+casual,4,Wednesday,276334
+member,5,Thursday,599135
+casual,5,Thursday,272736
+member,6,Friday,555146
+casual,6,Friday,325375
+casual,7,Saturday,455111
+member,7,Saturday,503012
